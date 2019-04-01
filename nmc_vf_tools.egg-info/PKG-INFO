@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: nmc-vf-tools
+Version: 0.1.0
+Summary: A collections of function for making verification productsfor meteorological verification.
+Home-page: UNKNOWN
+Author: The R & D Center for Weather Forecasting Technology in NMC, CMA
+Author-email: liucouhua@163.com
+License: GPL3
+Description: # nmc_vf_tools
+        提供生成各种检验图形、文本等产品的程序库
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
